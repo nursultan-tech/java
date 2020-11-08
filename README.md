@@ -1,1 +1,9 @@
 # java
+# Screenshot
+![alt text](https://raw.githubusercontent.com/mahmoudhamwi/Fruits-Market/master/FruitMarket/Screenshot/image1.png)
+![alt text](https://raw.githubusercontent.com/mahmoudhamwi/Fruits-Market/master/FruitMarket/Screenshot/image2.png)
+![alt text](https://raw.githubusercontent.com/mahmoudhamwi/Fruits-Market/master/FruitMarket/Screenshot/image3.png)
+![alt text](https://raw.githubusercontent.com/mahmoudhamwi/Fruits-Market/master/FruitMarket/Screenshot/image4.png)
+![alt text](https://raw.githubusercontent.com/mahmoudhamwi/Fruits-Market/master/FruitMarket/Screenshot/image2.PNG)
+![alt text](https://raw.githubusercontent.com/mahmoudhamwi/Fruits-Market/master/FruitMarket/Screenshot/image3.PNG)
+![alt text](https://raw.githubusercontent.com/mahmoudhamwi/Fruits-Market/master/FruitMarket/Screenshot/image4.PNG)
